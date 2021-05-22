@@ -1,6 +1,14 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/macos,xcode,swift,objective-c
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos,xcode,swift,objective-c
+# Created by https://www.toptal.com/developers/gitignore/api/xcode,macos,cocoapods,swift,objective-c
+# Edit at https://www.toptal.com/developers/gitignore?templates=xcode,macos,cocoapods,swift,objective-c
+
+### CocoaPods ###
+## CocoaPods GitIgnore Template
+
+# CocoaPods - Only use to conserve bandwidth / Save time on Pushing
+#           - Also handy if you have a large number of dependant pods
+#           - AS PER https://guides.cocoapods.org/using/using-cocoapods.html NEVER IGNORE THE LOCK FILE
+Pods/
 
 ### macOS ###
 # General
@@ -168,5 +176,4 @@ playground.xcworkspace
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
-# End of https://www.toptal.com/developers/gitignore/api/macos,xcode,swift,objective-c
-
+# End of https://www.toptal.com/developers/gitignore/api/xcode,macos,cocoapods,swift,objective-c

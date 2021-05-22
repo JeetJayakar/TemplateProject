@@ -6,12 +6,13 @@
 //
 
 import UIKit
+import Toast_Swift
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        self.view.makeToast("This is a piece of toast", duration: 3.0, position: .center)
     }
 
 
