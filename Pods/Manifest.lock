@@ -1,16 +1,22 @@
 PODS:
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
   - Toast-Swift (5.0.1)
 
 DEPENDENCIES:
+  - NVActivityIndicatorView
   - Toast-Swift
 
 SPEC REPOS:
   trunk:
+    - NVActivityIndicatorView
     - Toast-Swift
 
 SPEC CHECKSUMS:
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
   Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
 
-PODFILE CHECKSUM: 3c760d22159a4e4bab7736b5b4dd184e28f76d44
+PODFILE CHECKSUM: 3d2d3f9fd276d95c166ec5684be03d1b5a5b32bc
 
 COCOAPODS: 1.10.0

@@ -6,5 +6,7 @@ target 'TemplateProject' do
   use_frameworks!
 
   pod 'Toast-Swift'
+  pod 'NVActivityIndicatorView'
+
 
 end
