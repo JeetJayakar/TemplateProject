@@ -7,6 +7,7 @@ target 'TemplateProject' do
 
   pod 'Toast-Swift'
   pod 'NVActivityIndicatorView'
+  pod 'IQKeyboardManagerSwift'
 
 
 end
